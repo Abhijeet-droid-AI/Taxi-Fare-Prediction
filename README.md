@@ -64,6 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Questions or Concerns
 
 If you have any questions or concerns about the project, please feel free to [open an issue](https://github.com/Abhijeet-droid-AI/taxi-fare-prediction/issues) or contact [work@abhijeetdas2002@gmail.com].
-
----
-Feel free to customize the README page further to include any additional information or details specific to your project.
